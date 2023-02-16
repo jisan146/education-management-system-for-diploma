@@ -1,0 +1,1552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{773209DE-CDC1-4100-9B38-40A5DAF0191B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AITVET_Database</RootNamespace>
+    <AssemblyName>AITVET_Database</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_reg.designer.cs">
+      <DependentUpon>Admin_reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet13.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet14.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet14.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet15.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet15.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet16.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet16.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet17.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet17.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet18.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet18.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet19.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet19.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet20.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet20.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet21.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet21.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet22.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet22.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet23.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet23.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet24.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet24.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet25.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet25.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet26.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet26.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet27.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet27.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet28.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet28.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet29.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet29.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet30.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet30.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet31.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet31.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet32.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet32.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet33.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet33.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet34.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet34.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet35.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet35.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet36.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet36.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet37.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet37.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet38.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet38.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet39.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet39.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet40.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet40.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet41.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet41.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet42.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet42.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet43.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet43.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet44.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet44.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet45.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet45.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet46.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet46.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet47.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet47.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet48.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet48.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet49.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet49.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet50.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet50.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet51.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet51.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet52.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet52.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet53.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet53.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet54.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet54.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet55.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet55.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet56.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet56.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet57.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet57.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet58.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet58.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet59.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet59.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet60.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet60.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet61.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet61.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet62.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet62.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet63.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet63.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet64.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet64.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet65.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet65.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet66.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet66.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet67.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet67.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet68.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet68.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet69.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet69.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AITVETDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AITVETDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Appoint_teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Appoint_teacher.Designer.cs">
+      <DependentUpon>Appoint_teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="at.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="at.Designer.cs">
+      <DependentUpon>at.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendence.Designer.cs">
+      <DependentUpon>Attendence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Book.Designer.cs">
+      <DependentUpon>Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Change.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change.Designer.cs">
+      <DependentUpon>Change.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class.Designer.cs">
+      <DependentUpon>Class.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course.Designer.cs">
+      <DependentUpon>Course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Course_has.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course_has.Designer.cs">
+      <DependentUpon>Course_has.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Department.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Department.Designer.cs">
+      <DependentUpon>Department.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Email.Designer.cs">
+      <DependentUpon>Email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Expart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Expart.Designer.cs">
+      <DependentUpon>Expart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Form.Designer.cs">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="operate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="operate.Designer.cs">
+      <DependentUpon>operate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="payment.Designer.cs">
+      <DependentUpon>payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Read.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Read.Designer.cs">
+      <DependentUpon>Read.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result.designer.cs">
+      <DependentUpon>Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salary.Designer.cs">
+      <DependentUpon>salary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="semester.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="semester.Designer.cs">
+      <DependentUpon>semester.cs</DependentUpon>
+    </Compile>
+    <Compile Include="S_routine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S_routine.Designer.cs">
+      <DependentUpon>S_routine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Take_course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Take_course.Designer.cs">
+      <DependentUpon>Take_course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teachcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teachcs.Designer.cs">
+      <DependentUpon>Teachcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacher.Designer.cs">
+      <DependentUpon>teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_routine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_routine.Designer.cs">
+      <DependentUpon>T_routine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="t_sub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="t_sub.Designer.cs">
+      <DependentUpon>t_sub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_student.Designer.cs">
+      <DependentUpon>View_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view_teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_teacher.Designer.cs">
+      <DependentUpon>view_teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vr.Designer.cs">
+      <DependentUpon>vr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vss.Designer.cs">
+      <DependentUpon>vss.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_reg.resx">
+      <DependentUpon>Admin_reg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Appoint_teacher.resx">
+      <DependentUpon>Appoint_teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="at.resx">
+      <DependentUpon>at.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendence.resx">
+      <DependentUpon>Attendence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Book.resx">
+      <DependentUpon>Book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change.resx">
+      <DependentUpon>Change.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Class.resx">
+      <DependentUpon>Class.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Course.resx">
+      <DependentUpon>Course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Course_has.resx">
+      <DependentUpon>Course_has.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Department.resx">
+      <DependentUpon>Department.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Email.resx">
+      <DependentUpon>Email.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Expart.resx">
+      <DependentUpon>Expart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Form.resx">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="operate.resx">
+      <DependentUpon>operate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="payment.resx">
+      <DependentUpon>payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Read.resx">
+      <DependentUpon>Read.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Result.resx">
+      <DependentUpon>Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salary.resx">
+      <DependentUpon>salary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="semester.resx">
+      <DependentUpon>semester.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S_routine.resx">
+      <DependentUpon>S_routine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Take_course.resx">
+      <DependentUpon>Take_course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teachcs.resx">
+      <DependentUpon>Teachcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teacher.resx">
+      <DependentUpon>teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_routine.resx">
+      <DependentUpon>T_routine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="t_sub.resx">
+      <DependentUpon>t_sub.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_student.resx">
+      <DependentUpon>View_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_teacher.resx">
+      <DependentUpon>view_teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vr.resx">
+      <DependentUpon>vr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vss.resx">
+      <DependentUpon>vss.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AITVETDataSet.xsc">
+      <DependentUpon>AITVETDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet.xss">
+      <DependentUpon>AITVETDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet1.xsc">
+      <DependentUpon>AITVETDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet1.xss">
+      <DependentUpon>AITVETDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet10.xsc">
+      <DependentUpon>AITVETDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet10.xss">
+      <DependentUpon>AITVETDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet11.xsc">
+      <DependentUpon>AITVETDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet11.xss">
+      <DependentUpon>AITVETDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet12.xsc">
+      <DependentUpon>AITVETDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet12.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet12.xss">
+      <DependentUpon>AITVETDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet13.xsc">
+      <DependentUpon>AITVETDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet13.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet13.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet13.xss">
+      <DependentUpon>AITVETDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet14.xsc">
+      <DependentUpon>AITVETDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet14.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet14.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet14.xss">
+      <DependentUpon>AITVETDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet15.xsc">
+      <DependentUpon>AITVETDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet15.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet15.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet15.xss">
+      <DependentUpon>AITVETDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet16.xsc">
+      <DependentUpon>AITVETDataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet16.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet16.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet16.xss">
+      <DependentUpon>AITVETDataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet17.xsc">
+      <DependentUpon>AITVETDataSet17.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet17.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet17.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet17.xss">
+      <DependentUpon>AITVETDataSet17.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet18.xsc">
+      <DependentUpon>AITVETDataSet18.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet18.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet18.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet18.xss">
+      <DependentUpon>AITVETDataSet18.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet19.xsc">
+      <DependentUpon>AITVETDataSet19.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet19.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet19.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet19.xss">
+      <DependentUpon>AITVETDataSet19.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet2.xsc">
+      <DependentUpon>AITVETDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet2.xss">
+      <DependentUpon>AITVETDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet20.xsc">
+      <DependentUpon>AITVETDataSet20.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet20.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet20.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet20.xss">
+      <DependentUpon>AITVETDataSet20.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet21.xsc">
+      <DependentUpon>AITVETDataSet21.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet21.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet21.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet21.xss">
+      <DependentUpon>AITVETDataSet21.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet22.xsc">
+      <DependentUpon>AITVETDataSet22.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet22.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet22.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet22.xss">
+      <DependentUpon>AITVETDataSet22.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet23.xsc">
+      <DependentUpon>AITVETDataSet23.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet23.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet23.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet23.xss">
+      <DependentUpon>AITVETDataSet23.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet24.xsc">
+      <DependentUpon>AITVETDataSet24.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet24.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet24.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet24.xss">
+      <DependentUpon>AITVETDataSet24.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet25.xsc">
+      <DependentUpon>AITVETDataSet25.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet25.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet25.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet25.xss">
+      <DependentUpon>AITVETDataSet25.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet26.xsc">
+      <DependentUpon>AITVETDataSet26.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet26.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet26.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet26.xss">
+      <DependentUpon>AITVETDataSet26.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet27.xsc">
+      <DependentUpon>AITVETDataSet27.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet27.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet27.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet27.xss">
+      <DependentUpon>AITVETDataSet27.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet28.xsc">
+      <DependentUpon>AITVETDataSet28.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet28.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet28.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet28.xss">
+      <DependentUpon>AITVETDataSet28.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet29.xsc">
+      <DependentUpon>AITVETDataSet29.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet29.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet29.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet29.xss">
+      <DependentUpon>AITVETDataSet29.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet3.xsc">
+      <DependentUpon>AITVETDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet3.xss">
+      <DependentUpon>AITVETDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet30.xsc">
+      <DependentUpon>AITVETDataSet30.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet30.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet30.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet30.xss">
+      <DependentUpon>AITVETDataSet30.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet31.xsc">
+      <DependentUpon>AITVETDataSet31.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet31.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet31.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet31.xss">
+      <DependentUpon>AITVETDataSet31.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet32.xsc">
+      <DependentUpon>AITVETDataSet32.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet32.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet32.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet32.xss">
+      <DependentUpon>AITVETDataSet32.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet33.xsc">
+      <DependentUpon>AITVETDataSet33.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet33.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet33.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet33.xss">
+      <DependentUpon>AITVETDataSet33.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet34.xsc">
+      <DependentUpon>AITVETDataSet34.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet34.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet34.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet34.xss">
+      <DependentUpon>AITVETDataSet34.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet35.xsc">
+      <DependentUpon>AITVETDataSet35.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet35.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet35.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet35.xss">
+      <DependentUpon>AITVETDataSet35.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet36.xsc">
+      <DependentUpon>AITVETDataSet36.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet36.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet36.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet36.xss">
+      <DependentUpon>AITVETDataSet36.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet37.xsc">
+      <DependentUpon>AITVETDataSet37.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet37.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet37.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet37.xss">
+      <DependentUpon>AITVETDataSet37.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet38.xsc">
+      <DependentUpon>AITVETDataSet38.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet38.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet38.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet38.xss">
+      <DependentUpon>AITVETDataSet38.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet39.xsc">
+      <DependentUpon>AITVETDataSet39.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet39.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet39.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet39.xss">
+      <DependentUpon>AITVETDataSet39.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet4.xsc">
+      <DependentUpon>AITVETDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet4.xss">
+      <DependentUpon>AITVETDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet40.xsc">
+      <DependentUpon>AITVETDataSet40.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet40.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet40.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet40.xss">
+      <DependentUpon>AITVETDataSet40.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet41.xsc">
+      <DependentUpon>AITVETDataSet41.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet41.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet41.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet41.xss">
+      <DependentUpon>AITVETDataSet41.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet42.xsc">
+      <DependentUpon>AITVETDataSet42.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet42.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet42.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet42.xss">
+      <DependentUpon>AITVETDataSet42.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet43.xsc">
+      <DependentUpon>AITVETDataSet43.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet43.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet43.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet43.xss">
+      <DependentUpon>AITVETDataSet43.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet44.xsc">
+      <DependentUpon>AITVETDataSet44.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet44.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet44.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet44.xss">
+      <DependentUpon>AITVETDataSet44.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet45.xsc">
+      <DependentUpon>AITVETDataSet45.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet45.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet45.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet45.xss">
+      <DependentUpon>AITVETDataSet45.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet46.xsc">
+      <DependentUpon>AITVETDataSet46.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet46.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet46.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet46.xss">
+      <DependentUpon>AITVETDataSet46.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet47.xsc">
+      <DependentUpon>AITVETDataSet47.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet47.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet47.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet47.xss">
+      <DependentUpon>AITVETDataSet47.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet48.xsc">
+      <DependentUpon>AITVETDataSet48.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet48.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet48.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet48.xss">
+      <DependentUpon>AITVETDataSet48.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet49.xsc">
+      <DependentUpon>AITVETDataSet49.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet49.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet49.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet49.xss">
+      <DependentUpon>AITVETDataSet49.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet5.xsc">
+      <DependentUpon>AITVETDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet5.xss">
+      <DependentUpon>AITVETDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet50.xsc">
+      <DependentUpon>AITVETDataSet50.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet50.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet50.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet50.xss">
+      <DependentUpon>AITVETDataSet50.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet51.xsc">
+      <DependentUpon>AITVETDataSet51.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet51.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet51.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet51.xss">
+      <DependentUpon>AITVETDataSet51.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet52.xsc">
+      <DependentUpon>AITVETDataSet52.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet52.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet52.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet52.xss">
+      <DependentUpon>AITVETDataSet52.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet53.xsc">
+      <DependentUpon>AITVETDataSet53.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet53.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet53.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet53.xss">
+      <DependentUpon>AITVETDataSet53.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet54.xsc">
+      <DependentUpon>AITVETDataSet54.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet54.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet54.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet54.xss">
+      <DependentUpon>AITVETDataSet54.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet55.xsc">
+      <DependentUpon>AITVETDataSet55.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet55.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet55.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet55.xss">
+      <DependentUpon>AITVETDataSet55.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet56.xsc">
+      <DependentUpon>AITVETDataSet56.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet56.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet56.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet56.xss">
+      <DependentUpon>AITVETDataSet56.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet57.xsc">
+      <DependentUpon>AITVETDataSet57.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet57.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet57.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet57.xss">
+      <DependentUpon>AITVETDataSet57.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet58.xsc">
+      <DependentUpon>AITVETDataSet58.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet58.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet58.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet58.xss">
+      <DependentUpon>AITVETDataSet58.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet59.xsc">
+      <DependentUpon>AITVETDataSet59.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet59.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet59.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet59.xss">
+      <DependentUpon>AITVETDataSet59.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet6.xsc">
+      <DependentUpon>AITVETDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet6.xss">
+      <DependentUpon>AITVETDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet60.xsc">
+      <DependentUpon>AITVETDataSet60.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet60.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet60.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet60.xss">
+      <DependentUpon>AITVETDataSet60.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet61.xsc">
+      <DependentUpon>AITVETDataSet61.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet61.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet61.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet61.xss">
+      <DependentUpon>AITVETDataSet61.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet62.xsc">
+      <DependentUpon>AITVETDataSet62.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet62.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet62.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet62.xss">
+      <DependentUpon>AITVETDataSet62.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet63.xsc">
+      <DependentUpon>AITVETDataSet63.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet63.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet63.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet63.xss">
+      <DependentUpon>AITVETDataSet63.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet64.xsc">
+      <DependentUpon>AITVETDataSet64.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet64.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet64.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet64.xss">
+      <DependentUpon>AITVETDataSet64.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet65.xsc">
+      <DependentUpon>AITVETDataSet65.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet65.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet65.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet65.xss">
+      <DependentUpon>AITVETDataSet65.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet66.xsc">
+      <DependentUpon>AITVETDataSet66.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet66.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet66.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet66.xss">
+      <DependentUpon>AITVETDataSet66.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet67.xsc">
+      <DependentUpon>AITVETDataSet67.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet67.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet67.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet67.xss">
+      <DependentUpon>AITVETDataSet67.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet68.xsc">
+      <DependentUpon>AITVETDataSet68.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet68.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet68.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet68.xss">
+      <DependentUpon>AITVETDataSet68.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet69.xsc">
+      <DependentUpon>AITVETDataSet69.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet69.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet69.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet69.xss">
+      <DependentUpon>AITVETDataSet69.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet7.xsc">
+      <DependentUpon>AITVETDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet7.xss">
+      <DependentUpon>AITVETDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet8.xsc">
+      <DependentUpon>AITVETDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet8.xss">
+      <DependentUpon>AITVETDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet9.xsc">
+      <DependentUpon>AITVETDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="AITVETDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AITVETDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AITVETDataSet9.xss">
+      <DependentUpon>AITVETDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

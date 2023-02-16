@@ -1,0 +1,385 @@
+c:\users\jisan rahman\documents\visual studio 2015\Projects\AITVET_Database\AITVET_Database\bin\Debug\AITVET_Database.exe.config
+c:\users\jisan rahman\documents\visual studio 2015\Projects\AITVET_Database\AITVET_Database\bin\Debug\AITVET_Database.exe
+c:\users\jisan rahman\documents\visual studio 2015\Projects\AITVET_Database\AITVET_Database\bin\Debug\AITVET_Database.pdb
+c:\users\jisan rahman\documents\visual studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.csprojResolveAssemblyReference.cache
+c:\users\jisan rahman\documents\visual studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Form1.resources
+c:\users\jisan rahman\documents\visual studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Properties.Resources.resources
+c:\users\jisan rahman\documents\visual studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.csproj.GenerateResource.Cache
+c:\users\jisan rahman\documents\visual studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.exe
+c:\users\jisan rahman\documents\visual studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.pdb
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Login_Form.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Form3.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.teacher.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Form4.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Form5.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Admin_reg.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Admin.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Class.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.semester.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Course.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Book.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Department.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Appoint_teacher.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Teachcs.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Course_has.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Attendence.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Expart.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Email.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Take_course.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Read.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.operate.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.payment.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.salary.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Result.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.T_routine.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.View_student.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.vss.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.vr.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.S_routine.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Change.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.view_teacher.resources
+C:\Users\Jisan Rahman\Documents\Visual Studio 2015\Projects\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.t_sub.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\bin\Debug\AITVET_Database.exe.config
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.exe
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.pdb
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\bin\Debug\AITVET_Database.exe
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\bin\Debug\AITVET_Database.pdb
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.csprojResolveAssemblyReference.cache
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Admin.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Admin_reg.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Appoint_teacher.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Attendence.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Book.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Change.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Class.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Course.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Course_has.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Department.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Email.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Expart.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Form1.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Form3.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Form4.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Form5.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Login_Form.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.operate.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.payment.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Properties.Resources.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Read.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Result.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.salary.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.semester.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.S_routine.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Take_course.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.Teachcs.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.teacher.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.T_routine.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.t_sub.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.View_student.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.view_teacher.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.vr.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.vss.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database\AITVET_Database\obj\Debug\AITVET_Database.csproj.GenerateResource.Cache
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe.config
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.exe
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.pdb
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csprojResolveAssemblyReference.cache
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin_reg.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Appoint_teacher.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Attendence.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Book.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Change.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Class.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course_has.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Department.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Email.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Expart.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form1.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form3.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form4.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form5.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Login_Form.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.operate.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.payment.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Properties.Resources.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Read.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Result.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.salary.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.semester.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.S_routine.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Take_course.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Teachcs.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.teacher.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.T_routine.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.t_sub.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.View_student.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.view_teacher.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vr.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vss.resources
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csproj.GenerateResource.Cache
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.pdb
+F:\Mixed\File\assignment\5th semester\database management system\Complete Project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.at.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe.config
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.exe
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.pdb
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.pdb
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csprojResolveAssemblyReference.cache
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin_reg.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Appoint_teacher.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.at.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Attendence.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Book.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Change.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Class.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course_has.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Department.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Email.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Expart.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form1.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form3.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form4.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form5.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Login_Form.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.operate.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.payment.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Properties.Resources.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Read.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Result.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.salary.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.semester.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.S_routine.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Take_course.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Teachcs.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.teacher.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.T_routine.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.t_sub.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.View_student.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.view_teacher.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vr.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vss.resources
+C:\Users\Jisan Rahman\Google Drive\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csproj.GenerateResource.Cache
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe.config
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.exe
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.pdb
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.pdb
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csprojResolveAssemblyReference.cache
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin_reg.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Appoint_teacher.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.at.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Attendence.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Book.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Change.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Class.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course_has.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Department.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Email.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Expart.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form1.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form3.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form4.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form5.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Login_Form.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.operate.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.payment.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Properties.Resources.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Read.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Result.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.salary.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.semester.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.S_routine.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Take_course.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Teachcs.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.teacher.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.T_routine.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.t_sub.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.View_student.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.view_teacher.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vr.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vss.resources
+C:\Users\Jisan Rahman\Desktop\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csproj.GenerateResource.Cache
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe.config
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.exe
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.pdb
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.pdb
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csprojResolveAssemblyReference.cache
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin_reg.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Appoint_teacher.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.at.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Attendence.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Book.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Change.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Class.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course_has.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Department.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Email.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Expart.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form1.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form3.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form4.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form5.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Login_Form.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.operate.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.payment.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Properties.Resources.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Read.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Result.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.salary.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.semester.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.S_routine.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Take_course.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Teachcs.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.teacher.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.T_routine.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.t_sub.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.View_student.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.view_teacher.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vr.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vss.resources
+D:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csproj.GenerateResource.Cache
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe.config
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.exe
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.pdb
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.pdb
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csprojResolveAssemblyReference.cache
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin_reg.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Appoint_teacher.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.at.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Attendence.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Book.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Change.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Class.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course_has.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Department.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Email.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Expart.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form1.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form3.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form4.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form5.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Login_Form.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.operate.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.payment.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Properties.Resources.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Read.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Result.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.salary.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.semester.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.S_routine.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Take_course.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Teachcs.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.teacher.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.T_routine.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.t_sub.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.View_student.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.view_teacher.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vr.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vss.resources
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csproj.GenerateResource.Cache
+C:\Users\Jisan Rahman\Desktop\New folder\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe.config
+C:\Users\Jisan Rahman\Desktop\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.exe
+C:\Users\Jisan Rahman\Desktop\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.pdb
+F:\New folder\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form7.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe.config
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.exe
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.pdb
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csprojResolveAssemblyReference.cache
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin_reg.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Appoint_teacher.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.at.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Attendence.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Book.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Change.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Class.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course_has.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Department.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Email.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Expart.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form1.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form3.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form4.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form5.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form7.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Login_Form.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.operate.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.payment.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Properties.Resources.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Read.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Result.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.salary.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.semester.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.S_routine.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Take_course.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Teachcs.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.teacher.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.T_routine.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.t_sub.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.View_student.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.view_teacher.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vr.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vss.resources
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csproj.GenerateResource.Cache
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe
+F:\Mixed\my project\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.pdb
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe.config
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.exe
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.pdb
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.pdb
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csprojResolveAssemblyReference.cache
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Admin_reg.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Appoint_teacher.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.at.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Attendence.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Book.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Change.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Class.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Course_has.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Department.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Email.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Expart.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form1.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form3.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form4.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form5.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Form7.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Login_Form.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.operate.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.payment.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Properties.Resources.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Read.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Result.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.salary.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.semester.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.S_routine.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Take_course.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.Teachcs.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.teacher.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.T_routine.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.t_sub.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.View_student.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.view_teacher.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vr.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.vss.resources
+C:\Users\jisan\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.csproj.GenerateResource.Cache
+C:\Users\Jisan Rahman\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\bin\Debug\AITVET_Database.exe.config
+C:\Users\Jisan Rahman\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.exe
+C:\Users\Jisan Rahman\Google Drive\Educational institution project\project\AITVET_Database _frame2\AITVET_Database\obj\Debug\AITVET_Database.pdb

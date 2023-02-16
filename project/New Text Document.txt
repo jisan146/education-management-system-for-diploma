@@ -1,0 +1,100 @@
+
+2 10
+System.Diagnostics.Process.Start(@"C:\AITVET\WindowsFormsApplication3.exe");
+
+
+Process[] p = Process.GetProcesses();
+                    foreach (Process ps in p)
+                    {
+                        string s = ps.ProcessName;
+                        s = s.ToLower();
+                        if (s.CompareTo("windowsformsapplication3") == 0) { ps.Kill(); }
+}
+
+System.Diagnostics.Process.Start(@"C:\AITVET\AITVET_Database.exe");
+select student.student_id,board_roll,image,student_name,gender,Phone,email,Current_Address,Permanent_Address,picture,DOB,take_course.course_id,course_name,Insert_By,Update_Time from student,take_course,course where student.student_id=take_course.student_id and take_course.course_id=course.course_id
+select room,operate.teacher_id,operate.book_id,teacher_name,book_name,course_name,semester_no,start_time,end_time,day from teacher,book, operate,course where teacher.teacher_id=operate.teacher_id and book.book_id=operate.book_id and course.course_name=operate.course_id 
+
+ if (e.RowIndex >= 0)
+
+ if (e.KeyCode == Keys.Enter)
+
+
+DialogResult dialogResult = MessageBox.Show("Sure", "Some Title", MessageBoxButtons.YesNo);
+if(dialogResult == DialogResult.Yes)
+{
+    //do something
+}
+else if (dialogResult == DialogResult.No)
+{
+    //do something else
+}
+
+
+int  a;
+            a = int.Parse(dataGridView3.RowCount.ToString());
+            a = a - 1;
+
+
+if (textBox1.Text == "1")
+            {
+                DataGridViewRow row = this.dataGridView1.Rows[0];
+ 		textBox13.Text = row.Cells[3].Value.ToString();
+
+              
+            }
+            else
+            {
+                
+            }
+            textBox.Clear();
+
+
+
+if (e.RowIndex >= 0){
+DataGridViewRow row = this.dataGridView1.Rows[e.RowIndex];
+            //populate the textbox from specific value of the coordinates of column and row.
+           // textBox13.Text = row.Cells[3].Value.ToString();}
+
+
+
+  dataGridView1.Visible = true;
+            dataGridView2.Visible = false;
+            SqlConnection con = new SqlConnection("Data Source=(local);Initial Catalog=AITVET;Integrated Security=True");
+            SqlDataAdapter sda = new SqlDataAdapter("select book_id as subject_id,book_name as Subject_name,t,p,c from book", con);
+            DataTable dt = new DataTable();
+            sda.Fill(dt);
+            dataGridView1.DataSource = dt;
+
+
+new SqlConnection(Properties.Settings.Default._ConnectionString);
+SqlDataAdapter sda = new SqlDataAdapter("select admin_id,admin_name,image,phone,email,current_address,picture,s,Insert_by as Insert_time,Update_Time from administrator where admin_name like '"+comboBox3.Text+ "%' or admin_name like '%" + comboBox3.Text + "%' or admin_name like '%" + comboBox3.Text + "'", con);
+
+
+
+
+4.00                 A+
+75% to 79%                3.75                 A
+70% to 74%                3.50                 A-
+65% to 69%                3.25                 B+
+60% to 64%                3.00                 B
+55% to 59%                2.75                 B-
+50% to 54%                2.50                 C+
+45% to 49%                2.25                 C
+40% to 44%                2.00                 D
+Below 40%                 0.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
